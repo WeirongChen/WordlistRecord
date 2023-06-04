@@ -5,6 +5,7 @@ Excel VBA (Visual Basic for Applications)
 <p align="center"><img src="./WordlistRecord_Display.png" width="550"></p>
 
 Citation: 
+
 Chen, Wei-Rong (2023). WordlistRecord V2(Version 23.06.04). Retrieved from https://github.com/WeirongChen/WordlistRecord
 ### COPYRIGHT, LICENSE & DISCLAIMER
 Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen[AT]yale.edu>  
