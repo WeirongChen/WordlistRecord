@@ -2,7 +2,7 @@
 ### WordlistRecord: Stimuli displaying and recording for psychological or linguistic studies
 Excel VBA (Visual Basic for Applications)
 - This application supports Windows 10 or 11 only. 
-<p align="center"><img src="./WordlistRecord_v2.1.png" width="550"></p>
+<p align="center"><img src="./WordlistRecord_Display.png" width="550"></p>
 
 Citation: 
 Chen, Wei-Rong (2023). WordlistRecord V2(Version 23.06.04). Retrieved from https://github.com/WeirongChen/WordlistRecord
